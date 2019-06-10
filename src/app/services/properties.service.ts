@@ -14,11 +14,11 @@ export class PropertiesService implements IPropertyService {
 
   constructor() { }
 
-  emitProperties() {
+  emitProperties(): void {
     this.propertiesSubject.next(this.properties);
   }
 
-  saveProperties() {
+  saveProperties(): void {
     firebase.database().ref('/properties').set(this.properties).then(
       (response) => {
         console.log('Enregistrement terminé, response: ' + response);
@@ -29,7 +29,7 @@ export class PropertiesService implements IPropertyService {
     );
   }
 
-  createProperty(newProperty: Property) {
+  createProperty(newProperty: Property): void {
     this.properties.push(newProperty);
     this.saveProperties();
     this.emitProperties();
@@ -48,13 +48,58 @@ export class PropertiesService implements IPropertyService {
     this.emitProperties();
   }
 
-  getProperties() {
+  getProperties(): void {
     firebase.database().ref('/properties').on('value', 
     (data) => {
       this.properties = data.val()  ? data.val() 
                                     : [];
       this.emitProperties();
     })
+  }
+
+  updateProperty(property: Property, id: number): void {
+    firebase.database().ref('/properties/' + id).update(property);
+  }
+
+  uploadFile(file:File): Promise<any> {
+    return new Promise(
+      (functionResolve, functionReject) => {
+        const uniqueId = Date.now().toString();
+        const upload = firebase.storage().ref().child('images/properties/' + uniqueId + file.name).put(file);
+        upload.on(firebase.storage.TaskEvent.STATE_CHANGED,
+          () => {
+            console.log('Loading...');
+          },
+          (error) => {
+            functionReject();
+            console.log('Error');
+          },
+          () => {
+            upload.snapshot.ref.getDownloadURL().then(
+              (downloadUrl) => {
+                console.log('Uploaded...');
+                functionResolve(downloadUrl);
+              }
+            );
+          }
+        );
+      }
+    );
+  }
+
+  removePropertyPhoto(photoLink: string) : void {
+    if (photoLink) {
+      const storageRef = firebase.storage().refFromURL(photoLink);
+      storageRef.delete().then(
+        () => {
+          console.log('File deleted');
+        }
+      ).catch(
+        (error) => {
+          console.log('File not found : ' + error);
+        }
+      )
+    }
   }
 
 }

@@ -16,6 +16,10 @@ export class AdminPropertiesComponent implements OnInit, OnDestroy {
   propertyForm: FormGroup;
   properties: Property[];
   propertiersSubcription: Subscription;
+  editProperty: boolean = false;
+  photoUploading: boolean = false;
+  photoUploaded: boolean = false;
+  photosAdded: any[] = [];
 
   constructor(
     private formBuilder: FormBuilder,
@@ -30,6 +34,7 @@ export class AdminPropertiesComponent implements OnInit, OnDestroy {
     );
     this.propertiesService.getProperties();
     this.propertiesService.emitProperties();
+    this.photosAdded = [];
   }
 
   ngOnDestroy() {
@@ -38,6 +43,7 @@ export class AdminPropertiesComponent implements OnInit, OnDestroy {
 
   initForm() {
     this.propertyForm = this.formBuilder.group({
+      id: [''],
       title: [
         '',
         Validators.required
@@ -61,23 +67,79 @@ export class AdminPropertiesComponent implements OnInit, OnDestroy {
   }
 
   onSaveProperty() {
+    const id = this.propertyForm.get('id').value;
     const title = this.propertyForm.get('title').value;
     const category = this.propertyForm.get('category').value;
     const surface = this.propertyForm.get('surface').value;
     const rooms = this.propertyForm.get('rooms').value;
     const description = this.propertyForm.get('description').value;
+    const photos = this.photosAdded ? this.photosAdded 
+                                    : [];
 
-    const newProperty = new Property(title, category, surface, rooms, description);
+    const newProperty = new Property(title, category, surface, rooms, description, photos);
 
-    this.propertiesService.createProperty(newProperty);
+    if(this.editProperty === true) {
+      this.propertiesService.updateProperty(newProperty, id);
+    } else {
+      this.propertiesService.createProperty(newProperty);
+    }
 
     $('#propertiesFormModal').modal('hide');
 
     this.propertyForm.reset();
+    this.photoUploaded = false;
   }
 
   onDeleteProperty(property: Property) {
+    if (property.photos) {
+      property.photos.forEach(photo => {
+        this.propertiesService.removePropertyPhoto(photo);
+      });
+    }
     this.propertiesService.removeProperty(property);
+  }
+
+  onEditProperty(property: Property, id: number) {
+    this.propertyForm.get('id').setValue(id);
+    this.propertyForm.get('category').setValue(property.category);
+    this.propertyForm.get('description').setValue(property.description);
+    this.propertyForm.get('rooms').setValue(property.rooms);
+    this.propertyForm.get('surface').setValue(property.surface);
+    this.propertyForm.get('title').setValue(property.title);
+    this.photosAdded = property.photos  ? property.photos 
+                                        : [];
+    $('#propertiesFormModal').modal('show');
+    this.editProperty = true;
+  }
+
+  resetPropertyForm() {
+    this.editProperty = false;
+    this.photoUploaded = false;
+    this.photoUploading = false;
+    this.propertyForm.reset();
+  }
+
+  detectFile(event) {
+    this.photoUploading = true;
+    this.propertiesService.uploadFile(event.target.files[0]).then(
+      (url: string) => {
+        console.log('File uploaded: ' + url);
+        this.onAddPhoto(url);
+        this.photoUploading = false;
+        this.photoUploaded = true;
+      }
+    )
+  }
+
+  onAddPhoto(url: string) : void {
+    this.photosAdded.push(url);
+  }
+
+  onRemoveAddedPhoto(id: number) : void {
+    this.propertiesService.removePropertyPhoto(
+      this.photosAdded[id]
+    );
+    this.photosAdded.splice(id, 1);
   }
 
 }
