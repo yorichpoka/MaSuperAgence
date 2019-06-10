@@ -5,7 +5,6 @@ import { IAuthenticationService } from './dao/iauthentication.service';
 @Injectable({
   providedIn: 'root'
 })
-
 export class AuthenticationService implements IAuthenticationService {
 
   constructor() { }
