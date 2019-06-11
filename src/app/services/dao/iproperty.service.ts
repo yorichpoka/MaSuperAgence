@@ -10,5 +10,6 @@ export interface IPropertyService {
     updateProperty(property: Property, id: number): void;
     uploadFile(file:File): Promise<any>;
     removePropertyPhoto(photoLink: string) : void;
+    getSingleProperty(id: number) : Promise<Property>;
 
 }

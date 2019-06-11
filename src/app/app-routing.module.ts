@@ -3,11 +3,15 @@ import { Routes, RouterModule } from '@angular/router';
 import { AdminSigninComponent } from './admin/admin-signin/admin-signin.component'
 import { AdminDashboardComponent } from './admin/admin-dashboard/admin-dashboard.component';
 import { AdminPropertiesComponent } from './admin/admin-properties/admin-properties.component';
+import { HomeComponent } from './home/home.component';
+import { SinglePropertyComponent } from './single-property/single-property.component';
 
 const routes: Routes = [
   { path: 'admin/login', component: AdminSigninComponent },
   { path: 'admin/dashboard', component: AdminDashboardComponent },
-  { path: 'admin/properties', component: AdminPropertiesComponent }
+  { path: 'admin/properties', component: AdminPropertiesComponent },
+  { path: 'home', component: HomeComponent },
+  { path: 'property/:id', component: SinglePropertyComponent }
 ];
 
 @NgModule({

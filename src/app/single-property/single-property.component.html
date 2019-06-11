@@ -1,0 +1,26 @@
+<div class="container">
+  <h1 class="display-4 mt-5 mb-0">
+    {{ property.title }}
+  </h1>
+  <hr class="bg-dark mb-4 mt-2">
+  <div class="row">
+    <div class="col-md-6">
+      <div *ngIf="property.photos.length == 1">
+        <div *ngFor="let photos of property.photos; let first = first;" class="w-10 my-auto">
+          <figure class="figure">
+            <img *ngIf="first" [src]="photos" alt="Property photo">
+          </figure>
+        </div>
+      </div>
+      
+    </div>
+    <div class="col-md-6">
+      <p class="font-weight-light">
+        {{ property.category }} de {{ property.surface }} m², {{ property.rooms }} piece(s).
+      </p>
+      <p class="font-weight-light">
+        {{ property.description }}
+      </p>  
+      </div>
+  </div>
+</div>

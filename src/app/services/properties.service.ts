@@ -102,4 +102,19 @@ export class PropertiesService implements IPropertyService {
     }
   }
 
+  getSingleProperty(id: number) : Promise<Property> {
+    return new Promise(
+      (functionResolve, functionreject) => {
+        firebase.database().ref('/properties/' + id).once('value').then(
+          (data) => {
+            functionResolve(data.val());
+          },
+          (error) => {
+            functionreject(error);
+          }
+        );
+      }
+    );
+  }
+
 }
