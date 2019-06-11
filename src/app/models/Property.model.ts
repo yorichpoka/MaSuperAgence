@@ -7,7 +7,8 @@ export class Property {
         public surface: string,
         public rooms: string,
         public description: string,
-        public photos: any[]
+        public photos: any[],
+        public price: number = 0
     ) { 
     }
 
