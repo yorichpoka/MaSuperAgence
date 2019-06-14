@@ -1,0 +1,864 @@
+Title,Category,Surface,Rooms,Description,Price
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+ccc,3,25,9,An othe good place,4900
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
+bbb,2,15,6,An othe good place,1800
+ccc,3,25,9,An othe good place,4900
+aaa,1,10,5,A good place,1200
